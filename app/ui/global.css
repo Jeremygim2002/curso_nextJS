@@ -18,5 +18,6 @@ input[type='number']::-webkit-outer-spin-button {
 }
 
 body {
-  background-color: rgb(61, 61, 63);
+  background-color: rgb(87, 87, 143);
+  color: #000;
 }
