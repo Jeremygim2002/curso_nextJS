@@ -1,5 +1,5 @@
 import './ui/global.css';
-import {quicksand, roboto} from './ui/fonts.js'
+import {quicksand, roboto} from './ui/fonts'
 
 export default function RootLayout({
 children,

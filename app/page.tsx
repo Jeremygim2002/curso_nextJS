@@ -2,7 +2,7 @@ import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from './ui/home.module.css'
-import { quicksand } from './ui/fonts.js'
+import { quicksand } from './ui/fonts'
 import Image from 'next/image';
 
 
