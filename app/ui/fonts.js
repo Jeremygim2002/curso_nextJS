@@ -1,18 +1,18 @@
 import {Quicksand, Roboto, Lusitana} from 'next/font/google';
 
 export const quicksand = Quicksand({
-    subset: ['latin'],
     preload: true,
+    subset: ['latin'],
 })
 
 export const roboto = Roboto({
+    preload: true,
     subset: ['latin'],
     weight: ['400'],
-    preload: true,
 })
 
 export const lusitana = Lusitana({
+    preload: true,
     subset: ['latin'],
     weight: ['400'],
-    preload: true,
 })
